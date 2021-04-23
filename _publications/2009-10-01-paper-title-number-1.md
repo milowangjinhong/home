@@ -1,7 +1,7 @@
 ---
 title: "A Passively Complaint Idler Mechanism for Underactuated Dexterous Grippers with Dynamic Tendon Routing"
 collection: publications
-permalink: /publication/2020-09-16-paper-title-number-1
+permalink: /publication/2020-09-16-idler-system
 excerpt: 'A design paper introducing a passive idler system to solve the tendon synchronisation problem for multi-tendon actuation system.'
 date: 2020-09-16
 venue: 'Towards Autonomous Robotic Systems Conference (TAROS) 2020'
